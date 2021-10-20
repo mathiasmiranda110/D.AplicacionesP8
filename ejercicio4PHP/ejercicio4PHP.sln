@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "ejercicio4PHP", "ejercicio4PHP.phpproj", "{464F7245-C946-4A88-878A-C14AB66DF6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464F7245-C946-4A88-878A-C14AB66DF6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464F7245-C946-4A88-878A-C14AB66DF6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464F7245-C946-4A88-878A-C14AB66DF6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464F7245-C946-4A88-878A-C14AB66DF6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6D5101-A72F-45F2-8A22-33B36D8F43F6}
+	EndGlobalSection
+EndGlobal
